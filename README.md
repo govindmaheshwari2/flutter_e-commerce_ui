@@ -1,6 +1,12 @@
 # shopping
 
-A new Flutter application.
+Flutter E-Commerce UI
+- [Youtube](https://youtu.be/axJOseKF8ho)
+
+Online E-Commerce app UI by using #Flutter.
+On our E-commerce app #UI has two pages one for the product page which show different products, category and Wishlist. Then on the details page, it shows the price and short description of the product with the Buy Now button.
+
+- [Design](https://www.instagram.com/p/CIV9GhgAxMh/)
 
 ## Getting Started
 
